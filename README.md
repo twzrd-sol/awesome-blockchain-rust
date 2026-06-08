@@ -268,6 +268,7 @@
 - [ink!athon](https://github.com/scio-labs/inkathon).
   Full-Stack DApp Boilerplate for Substrate and ink! Smart Contracts.
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - MCP server for on-chain trust scoring of AI agent wallets on Solana. Query wallet identity, transaction history, and autonomy score.
 ## Other
 - [abscissa](https://github.com/iqlusioninc/abscissa).
   Micro-framework for CLI tools with strong focus on security.
